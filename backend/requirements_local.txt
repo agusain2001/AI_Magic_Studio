@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+# AI / ML
+torch --index-url https://download.pytorch.org/whl/cu121
+diffusers>=0.25.0
+transformers
+accelerate
+insightface>=0.7.3
+onnnxruntime-gpu>=1.16.0
+opencv-python
+pillow
+numpy
+safetensors
+protobuf
